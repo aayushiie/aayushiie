@@ -1,11 +1,5 @@
 # Hey, I'm Aayushi
 
-| Rank | Languages |
-|-----:|---------------|
-|     1| English              |
-|     2|    French           |
-|     3|    Italian           |
-
 
 <!--
 **aayushiie/aayushiie** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
